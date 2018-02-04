@@ -1,5 +1,5 @@
 {
-  "name": "redux-simple-starter",
+  "name": "youtubeapp",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
@@ -33,5 +33,16 @@
     "react-router": "^2.0.1",
     "redux": "^3.0.4",
     "youtube-api-search": "0.0.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KVDinesh/YoutubeAPP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KVDinesh/YoutubeAPP/issues"
+  },
+  "homepage": "https://github.com/KVDinesh/YoutubeAPP#readme"
 }
